@@ -46,10 +46,11 @@ git clone https://github.com/RinJ07/Code-Block-Validation.git
 -Select the .pro file in your project folder
    _(If there’s no .pro file, see Appendix below)_
 -Click the green Run (▶) button or press Ctrl+R
-
 ---
+
+
 ## Appendix: Create a .pro File (If Missing) ## 
-If the project doesn’t include a .pro file, create one named **CodeBlockValidation.pro** in the root folder:
+If the project doesn’t include a **.pro** file, create one named **CodeBlockValidation.pro** in the root folder:
 
 ```c++
 QT += core widgets
