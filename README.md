@@ -30,9 +30,9 @@ This repository contains a Qt-based C++ application for validating code blocks. 
 ## 📂 Step 2: Get the Code
 
 **Option A – Clone with Git:**
-
+```bash
 git clone https://github.com/RinJ07/Code-Block-Validation.git
-
+```
 
 ## Option B – Download ZIP:## 
 
@@ -63,5 +63,10 @@ FORMS += mainwindow.ui
 ```
 ⚠️ Adjust the file list to match your actual source files.
 
-
+---
+🆘 Need Help?
+Use Qt Creator (not VS Code) for easiest setup.
+No extra libraries needed—Qt includes everything.
+In Qt Creator, ensure your build kit uses the MinGW compiler you installed.
+---
 
