@@ -67,8 +67,9 @@ FORMS += mainwindow.ui
 
 ---
 🆘 Need Help?
-Use Qt Creator (not VS Code) for easiest setup.
-No extra libraries needed—Qt includes everything.
-In Qt Creator, ensure your build kit uses the MinGW compiler you installed.
+
+- Use Qt Creator (not VS Code) for easiest setup.
+- No extra libraries needed—Qt includes everything.
+- In Qt Creator, ensure your build kit uses the MinGW compiler you installed.
 ---
 
