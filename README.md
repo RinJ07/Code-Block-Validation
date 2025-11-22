@@ -34,7 +34,7 @@ This repository contains a Qt-based C++ application for validating code blocks. 
 git clone https://github.com/RinJ07/Code-Block-Validation.git
 ```
 
-## Option B – Download ZIP:## 
+**Option B – Download ZIP:**
 
 - On GitHub, click Code → Download ZIP
 - Extract the folder to a location like Documents/Code-Block-Validation
@@ -49,7 +49,7 @@ git clone https://github.com/RinJ07/Code-Block-Validation.git
 
 ---
 ## Appendix: Create a .pro File (If Missing) ## 
-If the project doesn’t include a .pro file, create one named #CodeBlockValidation.pro in the root folder:
+If the project doesn’t include a .pro file, create one named **CodeBlockValidation.pro** in the root folder:
 
 ```c++
 QT += core widgets
