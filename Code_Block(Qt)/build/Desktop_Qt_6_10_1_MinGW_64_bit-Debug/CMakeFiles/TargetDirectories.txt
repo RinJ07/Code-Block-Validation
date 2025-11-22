@@ -1,0 +1,9 @@
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Code_block.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Code_block_autogen_timestamp_deps.dir
+C:/Users/Personal PC_1/Desktop/remar_project/Qt/Code_block/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Code_block_autogen.dir
