@@ -51,7 +51,7 @@ git clone https://github.com/RinJ07/Code-Block-Validation.git
 ## Appendix: Create a .pro File (If Missing) ## 
 If the project doesn’t include a .pro file, create one named #CodeBlockValidation.pro in the root folder:
 
----c++
+```c++
 QT += core widgets
 CONFIG += c++17
 TEMPLATE = app
@@ -60,7 +60,7 @@ SOURCES += main.cpp \
 HEADERS += mainwindow.h
 FORMS += mainwindow.ui
 
-
+```
 ⚠️ Adjust the file list to match your actual source files.
 
 
