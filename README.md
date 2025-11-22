@@ -41,11 +41,12 @@ git clone https://github.com/RinJ07/Code-Block-Validation.git
 
 ---
 ## Step 3: Open & Run in Qt Creator ##
--Open Qt Creator
--Go to File → Open File or Project
--Select the .pro file in your project folder
+
+- Open Qt Creator
+- Go to File → Open File or Project
+- Select the .pro file in your project folder
    _(If there’s no .pro file, see Appendix below)_
--Click the green Run (▶) button or press Ctrl+R
+- Click the green Run (▶) button or press Ctrl+R
 ---
 
 
