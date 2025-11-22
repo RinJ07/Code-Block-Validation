@@ -25,12 +25,43 @@ This repository contains a Qt-based C++ application for validating code blocks. 
    - **Qt Creator** (IDE)
 5. Complete the installation.
 
----
+----
 
 ## 📂 Step 2: Get the Code
 
 **Option A – Clone with Git:**
-```bash
+
 git clone https://github.com/RinJ07/Code-Block-Validation.git
+
+
+## Option B – Download ZIP:## 
+
+- On GitHub, click Code → Download ZIP
+- Extract the folder to a location like Documents/Code-Block-Validation
+
+---
+## Step 3: Open & Run in Qt Creator ##
+-Open Qt Creator
+-Go to File → Open File or Project
+-Select the .pro file in your project folder
+   _(If there’s no .pro file, see Appendix below)_
+-Click the green Run (▶) button or press Ctrl+R
+
+---
+## Appendix: Create a .pro File (If Missing) ## 
+If the project doesn’t include a .pro file, create one named #CodeBlockValidation.pro in the root folder:
+
+
+QT += core widgets
+CONFIG += c++17
+TEMPLATE = app
+SOURCES += main.cpp \
+           mainwindow.cpp
+HEADERS += mainwindow.h
+FORMS += mainwindow.ui
+
+
+⚠️ Adjust the file list to match your actual source files.
+---
 
 
